@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there👋! I'm Carlos Ugaz
 
-<!--
-**carlosgub/carlosgub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Android Developer
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosgub&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgub&layout=compact&theme=dracula)
+
+---
+
+## 🔗 Know more about me 
+
+[<img align= "left" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg">][linkedin]
+[<img align= "left" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg">][twitter]
+
+<br>
+
+[linkedin]: https://www.linkedin.com/in/carlosgub
+[twitter]: https://twitter.com/carlosgub
